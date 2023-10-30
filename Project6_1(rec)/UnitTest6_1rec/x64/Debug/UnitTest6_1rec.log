@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6_1rec.cpp
+C:\Users\Sofiya\source\repos\Project6_1(rec)\Project6_1(rec)\Source.cpp(43): warning C4715: 'CalcZero': not all control paths return a value
+     Creating library C:\Users\Sofiya\source\repos\Project6_1(rec)\x64\Debug\UnitTest6_1rec.lib and object C:\Users\Sofiya\source\repos\Project6_1(rec)\x64\Debug\UnitTest6_1rec.exp
+  UnitTest6_1rec.vcxproj -> C:\Users\Sofiya\source\repos\Project6_1(rec)\x64\Debug\UnitTest6_1rec.dll
